@@ -1,6 +1,8 @@
-//THIS IS EASYEST IN THE WORLD
+// iostream
 #include <iostream>
+
 using namespace std;
+
 int main()
 {
 double a,b;
